@@ -33,15 +33,15 @@ RepoDB
 
 ## 🧠 I know
 
-<img src="https://github.com/github/explore/tree/main/topics/javascript/javascript.png" height="32" /> <img src="https://github.com/github/explore/tree/main/topics/es6/es6.png?raw=true" height="32" /> <img src="https://github.com/github/explore/tree/main/topics/react/react.png" height="32" />
+<img src="https://github.com/github/explore/blob/main/topics/javascript/javascript.png" height="32" /> <img src="https://github.com/github/explore/blob/main/topics/es6/es6.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/main/topics/react/react.png" height="32" />
 
-<img src="https://github.com/github/explore/tree/main/topics/aspnet/aspnet.png" height="32" /> <img src="https://github.com/github/explore/tree/main/topics/csharp/csharp.png" height="32" /> <img src="https://github.com/github/explore/tree/main/topics/dotnet/dotnet.png" height="32" /> <img src="https://github.com/github/explore/tree/main/topics/php/php.png" height="32" />
+<img src="https://github.com/github/explore/blob/main/topics/aspnet/aspnet.png" height="32" /> <img src="https://github.com/github/explore/blob/main/topics/csharp/csharp.png" height="32" /> <img src="https://github.com/github/explore/blob/main/topics/dotnet/dotnet.png" height="32" /> <img src="https://github.com/github/explore/blob/main/topics/php/php.png" height="32" />
 
-<img src="https://github.com/github/explore/tree/main/topics/bootstrap/bootstrap.png" height="32" /> <img src="https://github.com/github/explore/tree/main/topics/html/html.png" height="32" /> <img src="https://github.com/github/explore/tree/main/topics/css/css.png" height="32" /> <img src="https://github.com/github/explore/tree/main/topics/sass/sass.png" height="32" />
+<img src="https://github.com/github/explore/blob/main/topics/bootstrap/bootstrap.png" height="32" /> <img src="https://github.com/github/explore/blob/main/topics/html/html.png" height="32" /> <img src="https://github.com/github/explore/blob/main/topics/css/css.png" height="32" /> <img src="https://github.com/github/explore/blob/main/topics/sass/sass.png" height="32" />
 
-<img src="https://github.com/github/explore/tree/main/topics/npm/npm.png" height="32" /> <img src="https://github.com/github/explore/tree/main/topics/git/git.png" height="32" /> <img src="https://github.com/github/explore/tree/main/topics/json/json.png" height="32" /> <img src="https://github.com/github/explore/tree/main/topics/github/github.png" height="32" />
+<img src="https://github.com/github/explore/blob/main/topics/npm/npm.png" height="32" /> <img src="https://github.com/github/explore/blob/main/topics/git/git.png" height="32" /> <img src="https://github.com/github/explore/blob/main/topics/json/json.png" height="32" /> <img src="https://github.com/github/explore/blob/main/topics/github/github.png" height="32" />
 
-<img src="https://github.com/github/explore/tree/main/topics/sql-server/sql-server.png" height="32" /> <img src="https://github.com/github/explore/tree/main/topics/sqlite/sqlite.png" height="32" /> <img src="https://github.com/github/explore/tree/main/topics/mysql/mysql.png" height="32" />
+<img src="https://github.com/github/explore/blob/main/topics/sql-server/sql-server.png" height="32" /> <img src="https://github.com/github/explore/blob/main/topics/sqlite/sqlite.png" height="32" /> <img src="https://github.com/github/explore/blob/main/topics/mysql/mysql.png" height="32" />
 
 ## 📫 How to reach me
 
