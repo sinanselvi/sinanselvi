@@ -37,7 +37,7 @@ BPM - BRE
 
 <img src="https://github.com/github/explore/blob/main/topics/bootstrap/bootstrap.png" height="32" /> <img src="https://github.com/github/explore/blob/main/topics/html/html.png" height="32" /> <img src="https://github.com/github/explore/blob/main/topics/css/css.png" height="32" /> <img src="https://github.com/github/explore/blob/main/topics/sass/sass.png" height="32" />
 
-<img src="https://github.com/github/explore/blob/main/topics/sql-server/sql-server.png" height="32" /> <img src="https://github.com/github/explore/blob/main/topics/sqlite/sqlite.png" height="32" /> <img src="https://github.com/github/explore/blob/main/topics/mysql/mysql.png" height="32" />
+<img src="https://github.com/github/explore/blob/main/topics/sql-server/sql-server.png" height="32" /> <img src="https://github.com/github/explore/blob/main/topics/sqlite/sqlite.png" height="32" /> <img src="https://github.com/github/explore/blob/main/topics/mysql/mysql.png" height="32" /> <img src="https://github.com/github/explore/blob/main/topics/postgresql/postgresql.png" height="32" />
 
 ## 📫 How to reach me
 
