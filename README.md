@@ -25,7 +25,7 @@ I'm working as a Software Engineer in [Architecht](https://architecht.com/)
 
 ## 🔭 I'm currently working on
 
-Business Rule Engine - UI Components & Scripting Engine
+BPM - BRE
 
 ## 🌱 I’m currently learning
 
